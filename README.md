@@ -1,3 +1,3 @@
 # Description
 
-Tutorial notebooks for the MUnitQuest competition
+Collection of tutorial notebooks for the MUnitQuest competition.
